@@ -13,22 +13,22 @@ By accessing or using this application ("App"), you agree to be bound by these T
 
 ## 2. Description of Service
 
-This App is a personal content management tool used to publish, schedule, and manage video content to a TikTok account owned and operated by the App developer. The App integrates with the TikTok API and may operate via automation platforms (such as n8n) or a custom-built desktop application. The App is intended for **personal use only** by a single authorized user.
+This App is a content scheduling and automation tool that enables content creators to publish, schedule, and manage video content on TikTok via the TikTok Content Posting API. The App integrates with the TikTok API and operates via automation platforms (such as n8n) or a custom-built desktop application. The App is designed for content creators managing their own TikTok presence.
 
 ***
 
 ## 3. Eligibility
 
-Use of this App is restricted to the account owner and developer. No third-party users are permitted to register, access, or use this App without express written permission from the developer.
+Use of this App is restricted to authorized content creators who have completed TikTok OAuth authentication. Users must be at least 13 years of age and comply with TikTok's Terms of Service and Community Guidelines.
 
 ***
 
 ## 4. Permitted Use
 
 You agree to use the App solely to:
-- Upload and publish original video content to your own TikTok account
+- Upload and publish original video content to your own authorized TikTok account
 - Schedule and manage content publishing via the TikTok Content Posting API
-- Automate personal workflows for content creation and distribution
+- Automate content creation and distribution workflows
 
 ***
 
