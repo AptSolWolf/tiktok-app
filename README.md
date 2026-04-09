@@ -1,51 +1,88 @@
-# TikTok Content App
+# Terms of Service
 
-A personal tool for managing and automating video uploads to a TikTok account via the official TikTok Content Posting API.
-
-***
-
-## What This Is
-
-This repository hosts the legal documentation (Terms of Service and Privacy Policy) required for TikTok Developer API registration. It is associated with a personal content automation tool used to publish videos to a single TikTok account for content creation and channel growth.
-
-The tool integrates with TikTok's Content Posting API and may operate via:
-- **n8n** — a self-hosted workflow automation platform
-- **A custom desktop application** — privately developed for personal use
+**Effective Date:** April 9, 2026
+**Last Updated:** April 9, 2026
 
 ***
 
-## Repository Contents
+## 1. Acceptance of Terms
 
-| File | Description |
-|------|-------------|
-| `terms_of_service.md` | Terms of Service for TikTok API app registration |
-| `privacy_policy.md` | Privacy Policy for TikTok API app registration |
-| `README.md` | This file |
+By accessing or using this application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ***
 
-## Legal Pages
+## 2. Description of Service
 
-- [Terms of Service](./terms_of_service.md)
-- [Privacy Policy](./privacy_policy.md)
-
-***
-
-## Usage
-
-This app is for **personal use only** by the account owner and developer. It is not a public-facing product, SaaS platform, or multi-user application. No third-party user data is collected, stored, or processed.
-
-The only TikTok API scope used is:
-- `video.publish` — to post videos to the authorized TikTok account
+This App is a content scheduling and automation tool that enables content creators to publish, schedule, and manage video content on TikTok via the TikTok Content Posting API. The App integrates with the TikTok API and operates via automation platforms (such as n8n) or a custom-built desktop application. The App is designed for content creators managing their own TikTok presence.
 
 ***
 
-## Tech Stack
+## 3. Eligibility
 
-- TikTok Content Posting API
-- n8n (workflow automation)
-- Custom desktop app (future)
+Use of this App is restricted to authorized content creators who have completed TikTok OAuth authentication. Users must be at least 13 years of age and comply with TikTok's Terms of Service and Community Guidelines.
 
 ***
 
-*For questions, contact the developer via the associated TikTok account or registered developer email.*
+## 4. Permitted Use
+
+You agree to use the App solely to:
+- Upload and publish original video content to your own authorized TikTok account
+- Schedule and manage content publishing via the TikTok Content Posting API
+- Automate content creation and distribution workflows
+
+***
+
+## 5. Prohibited Use
+
+You may not use the App to:
+- Post content that violates TikTok's Community Guidelines or Terms of Service
+- Infringe on any third-party intellectual property rights
+- Engage in spam, harassment, or any unlawful activity
+- Attempt to gain unauthorized access to any systems or third-party accounts
+- Distribute, resell, or sublicense the App to any third party
+
+***
+
+## 6. Intellectual Property
+
+All original content uploaded through the App remains the sole property of the content creator. The developer claims no ownership over user-generated content published via the App.
+
+***
+
+## 7. Third-Party Services
+
+This App integrates with TikTok's API and may use third-party automation tools including but not limited to n8n. Use of this App is subject to TikTok's Terms of Service available at [https://www.tiktok.com/legal/terms-of-service](https://www.tiktok.com/legal/terms-of-service). The developer is not responsible for any changes, outages, or policy updates made by TikTok or any third-party service.
+
+***
+
+## 8. Disclaimer of Warranties
+
+The App is provided "as is" without warranties of any kind, express or implied. The developer does not warrant that the App will be error-free, uninterrupted, or compatible with all devices and operating systems.
+
+***
+
+## 9. Limitation of Liability
+
+To the fullest extent permitted by applicable law, the developer shall not be liable for any indirect, incidental, special, or consequential damages arising from the use or inability to use the App.
+
+***
+
+## 10. Modifications to Terms
+
+The developer reserves the right to update these Terms at any time. Continued use of the App after any changes constitutes your acceptance of the revised Terms.
+
+***
+
+## 11. Governing Law
+
+These Terms shall be governed by and construed in accordance with applicable international laws, without regard to conflict of law provisions.
+
+***
+
+## 12. Contact
+
+For any questions regarding these Terms, please contact the developer directly through the App's associated TikTok account or registered developer email.
+
+***
+
+*These Terms of Service were last updated on April 9, 2026.*
